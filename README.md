@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Imran-Github22
-- 👀 I’m interested in programming with Python, Java, C/C++, Haskel and SQL as well as Computer Hardware design and development.
+- 👋 Hi, I’m Imran Farooqui @Imran-Github22
+- 👀 I’m interested in programming with Python, Java, C/C++, Haskel and SQL.
+-    I'm also interested in Electronics / Computer Hardware design and development projects.
 - 🌱 I’m currently learning Python and C/C++.
-- 💞️ I’m looking to collaborate on Data Science and PIC, FPGA, Microcontoller design and development projects.
+- 💞️ I’m looking to collaborate on Data Analytics, Data Science and PIC, FPGA, Microcontoller design and development projects.
 - 📫 How to reach me through GitHub.
 
 <!---
